@@ -1,0 +1,147 @@
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.csproj.AssemblyReference.cache
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\Lotto_MarkupCompile.cache
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\Lotto_MarkupCompile.lref
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\SeKupon.g.cs
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.exe
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.deps.json
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.runtimeconfig.json
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.runtimeconfig.dev.json
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.pdb
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\MigraDoc.DocumentObjectModel.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\MigraDoc.Rendering.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\MigraDoc.RtfRendering.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\PdfSharp.Charting.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\PdfSharp.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\de\MigraDoc.Rendering.resources.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\bin\Debug\net5.0-windows\de\PdfSharp.resources.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\SeKupon.baml
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.g.resources
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.AssemblyInfoInputs.cache
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.AssemblyInfo.cs
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.csproj.CopyComplete
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\refint\Lotto.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.pdb
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.genruntimeconfig.cache
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\Lotto\obj\Debug\net5.0-windows\ref\Lotto.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\Lotto.exe
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\Lotto.deps.json
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\Lotto.runtimeconfig.json
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\Lotto.runtimeconfig.dev.json
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\Lotto.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\Lotto.pdb
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\PdfSharp.Charting.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\PdfSharp.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\de\PdfSharp.resources.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\Lotto.csproj.AssemblyReference.cache
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\SeKupon.g.cs
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\Lotto_MarkupCompile.cache
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\Lotto_MarkupCompile.lref
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\SeKupon.baml
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\Lotto.g.resources
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\Lotto.AssemblyInfoInputs.cache
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\Lotto.AssemblyInfo.cs
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\Lotto.csproj.CopyComplete
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\Lotto.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\refint\Lotto.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\Lotto.pdb
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\Lotto.genruntimeconfig.cache
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\obj\Debug\net5.0-windows\ref\Lotto.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sck\OneDrive - EaDania\Skrivebord\Code\LynLotto_Opgave\Lotto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.exe
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.deps.json
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.runtimeconfig.json
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.runtimeconfig.dev.json
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.pdb
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\PdfSharp.Charting.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\PdfSharp.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\de\PdfSharp.Charting.resources.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\de\PdfSharp.resources.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+G:\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.csproj.AssemblyReference.cache
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\MainWindow.g.cs
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\SeKupon.g.cs
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\App.g.cs
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto_MarkupCompile.cache
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto_MarkupCompile.lref
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\MainWindow.baml
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\SeKupon.baml
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.g.resources
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.AssemblyInfoInputs.cache
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.AssemblyInfo.cs
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.csproj.CoreCompileInputs.cache
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.csproj.CopyComplete
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.dll
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\refint\Lotto.dll
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.pdb
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.genruntimeconfig.cache
+G:\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\ref\Lotto.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.exe
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.deps.json
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.runtimeconfig.json
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.runtimeconfig.dev.json
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Lotto.pdb
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\PdfSharp.Charting.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\PdfSharp.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\de\PdfSharp.Charting.resources.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\de\PdfSharp.resources.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.csproj.AssemblyReference.cache
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\SeKupon.g.cs
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\App.g.cs
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto_MarkupCompile.cache
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto_MarkupCompile.lref
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\MainWindow.baml
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\SeKupon.baml
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.g.resources
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.AssemblyInfoInputs.cache
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.AssemblyInfo.cs
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.csproj.CoreCompileInputs.cache
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.csproj.CopyComplete
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\refint\Lotto.dll
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.pdb
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\Lotto.genruntimeconfig.cache
+E:\Pc Backup 14-06-2023\Backup fra Datamatiker Skive\Allan_Lotto\Lotto\obj\Debug\net5.0-windows\ref\Lotto.dll

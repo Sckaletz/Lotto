@@ -1,0 +1,23 @@
+﻿<Window x:Class="Lotto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lotto"
+        mc:Ignorable="d"
+        Title="Lotto" Height="685" Width="1200" ResizeMode="NoResize" Background="#B20000">
+    <Grid Margin="0,0,0,0">
+        <Canvas Name="canvas" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+        <Image Height="50" Margin="10,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Source="/img/lotto-white.png"/>
+        <Image Height="145" Margin="0,279,0,0" VerticalAlignment="Top" Source="/img/joker.png"/>
+        <Label Content="Vælg antal kuponer" HorizontalAlignment="Center" Margin="0,188,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" Height="34" Width="202" FontSize="18"/>
+        <RadioButton x:Name="jokerJa" Content="Ja" HorizontalAlignment="Left" Margin="392,379,0,0" VerticalAlignment="Top" Width="77" Height="28" FontSize="20" FontWeight="Bold" Foreground="White"/>
+        <RadioButton x:Name="jokerNej" Content="Nej" Margin="776,378,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="100" Height="29" FontSize="20" FontWeight="Bold" Foreground="White"/>
+        <Label Content="{Binding Value, ElementName=kuponSlider}" HorizontalAlignment="Left" Margin="706,188,0,0" VerticalAlignment="Top" Width="32" Foreground="White" FontWeight="Bold" FontSize="18"/>
+        <Button x:Name="mineKuponer" Content="Vis kupon" Margin="0,31,0,0" Height="40" VerticalAlignment="Top" HorizontalAlignment="Center" Width="202" Click="minKupon_Click" />
+        <Button x:Name="exit" Content="Afslut" HorizontalAlignment="Left" Height="40" Margin="36,599,0,0" VerticalAlignment="Top" Width="98" Click="afslut_Click"/>
+        <Slider x:Name="kuponSlider" Margin="36,237,34,0" VerticalAlignment="Top" TickPlacement="BottomRight" SmallChange="1" AutoToolTipPlacement="TopLeft" Minimum="1" IsSnapToTickEnabled="True"/>
+        <Button x:Name="printKnap" Content="Lav kupon" Margin="526,495,528,0" Height="30" VerticalAlignment="Top" Click="Print_Knap_Click"/>
+        <Label x:Name="doneLabel" Content="" HorizontalAlignment="Center" Margin="0,530,0,0" VerticalAlignment="Top" Width="48" FontWeight="Bold" Foreground="White"/>
+    </Grid>
+</Window>
